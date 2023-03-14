@@ -1,0 +1,66 @@
+section.container div#blocoprincipal{
+    width: 1070px;
+    height: 140px;
+    /*background-color: #c8ca62;*/
+    margin:auto;
+}
+
+section.container div#blocoprincipal h1{
+    color: #2f7026;
+    font-size: 34px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+section.container div#blocoprincipal p{
+    font-size: 20px;
+    line-height: 32px;
+    color: black;
+    text-align: center;
+}
+
+
+section.container div#blocofinal{
+    width: 1200px;
+    height: 320px;
+    /*background-color: #d3d3d3;*/
+    margin-top: 40px;
+}
+
+section.container div#blocofinal div#box1{
+    width: 1200px;
+    height: 310px;
+    /*background-color: rgb(248, 133, 152);*/
+}
+
+section.container div#blocofinal div#box1 img{
+    display: block; /*transforma em bloco*/
+    margin: auto; /*centraliza*/
+    width: 1200px;
+    height: 300px;
+}
+
+section.container div#caixa{
+    width: 1200px;
+    height: 220px;
+    /*background-color: rgb(50, 187, 50);*/
+    margin-top: 20px;
+}
+
+section.container div#caixa p{
+    font-size: 20px;
+    line-height: 32px;
+    color: black;
+    text-align: center;
+    margin-bottom: 30px;   
+}
+
+section.container div#caixa a{
+    display:block;
+    margin:auto;
+    background-color: #2f7026;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+}

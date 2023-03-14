@@ -1,0 +1,126 @@
+section.container div#blocoprincipal{
+    width: 1070px;
+    height: 140px;
+    /*background-color: #c8ca62;*/
+    margin:auto;
+}
+
+section.container div#blocoprincipal h1{
+    color: #2f7026;
+    font-size: 34px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+section.container div#blocoprincipal p{
+    font-size: 20px;
+    line-height: 32px;
+    color: black;
+    text-align: center;
+}
+
+section.container div#blocofinal{
+    width: 1200px;
+    height: 310px;
+    /*background-color: #d3d3d3;*/
+    margin-top: 40px;
+}
+
+section.container div#blocofinal div#box1{
+    width: 30%;
+    height: 300px;
+    /*background-color: rgb(248, 133, 152);*/
+    float: left;
+}
+
+section.container div#blocofinal div#box2{
+    width: 30%;
+    height: 300px;
+    /*background-color: rgb(0, 153, 255);*/
+    float: left;
+    margin-left: 5%;
+}
+
+section.container div#blocofinal div#box3{
+    width: 30%;
+    height: 300px;
+    /*background-color: rgb(29, 145, 81);*/
+    float: right;  
+}
+
+section.container div#blocofinal div#box1 img,
+section.container div#blocofinal div#box2 img,
+section.container div#blocofinal div#box3 img{
+    display: block; /*transforma em bloco*/
+    margin: auto; /*centraliza*/
+    width: 360px;
+    height: 300px;
+}
+
+section.container p{
+    font-size: 20px;
+    line-height: 32px;
+    color: black;
+    text-align: center;
+    margin-top: 30px;
+}
+
+section.container div#caixaprincipal{
+    margin-top: 5%;
+    width: 1200px;
+    height: 540px;
+    /*background-color: pink;*/
+}
+
+section.container div#caixaprincipal div#caixa1{
+    width: 600px;
+    height: 530px;
+    /*background-color: blue;*/
+    float: left;
+}
+
+section.container div#caixaprincipal div#caixa1 img{
+    display: block;
+    margin: auto;
+    width: 410px;
+    height: 150px;
+}
+
+section.container div#caixaprincipal div#caixa1 h2{
+    color: #2f7026;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+section.container div#caixaprincipal div#caixa1 p{
+    font-size: 20px;
+    line-height: 32px;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+section.container div#caixaprincipal div#caixa1 a{
+    display:block;
+    margin:auto;
+    background-color: #2f7026;;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    text-transform: uppercase;
+}
+
+section.container div#caixaprincipal div#caixa2{
+    width: 600px;
+    height: 530px;
+    /*background-color: orange;*/
+    float: right;
+}
+
+section.container div#caixaprincipal div#caixa2 img{
+    display:block;
+    margin: auto;   
+}
